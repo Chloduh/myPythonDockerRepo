@@ -30,5 +30,5 @@ spec:
   ports:
     - protocol: TCP
       port: 8096
-      targetPort: 5000
+      targetPort: 8096
   type: LoadBalancer
